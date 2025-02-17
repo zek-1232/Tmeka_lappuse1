@@ -1,0 +1,114 @@
+/*Gradient*/
+
+body{
+   background: linear-gradient(#008F8C,#023535);
+}
+/* 3 pogas */
+.con1 {
+    width: 200px;
+    height: 55px;
+    border-radius: 50px 0px 0px 50px;
+    background-color: #B52D51;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+}
+.con2 {
+    width: 200px;
+    height: 55px;
+    background-color: #B52D51;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+}
+.con3 {
+    width: 200px;
+    height: 55px;
+    border-radius: 0px 50px 50px 0px;
+    background-color: #B52D51;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+}
+
+
+
+/* teksta izmeri un fonts */
+.t1{
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+
+.t2{
+    color:#000000;
+    text-align: center;
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+}
+
+.t2-1{
+    color:#ffffff;
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.t3 {
+    
+    color:#ffffff;
+    font-family: "Inconsolata", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  
+}
+.t4 {
+    font-family: "Inconsolata", serif;
+    color: #ffffff;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+
+
+  
+.st1{
+    width: 100px;
+    height: 55px;
+
+}
+.cll1{
+
+width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: #ffffff00;
+    display: grid;
+    place-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+/* atteli */
+.png-1 {
+    background-image: url(./img/1682863703948.jpg);
+}
+
+.img-132g{
+    background-image: url(./img/1682863703948.jpg);
+    
+}
+
+hr{
+    color: #ffffff;
+
+}
+.hit{
+    color: white;
+}
+
+
+
